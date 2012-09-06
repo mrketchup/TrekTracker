@@ -35,12 +35,32 @@ if __name__ == '__main__':
             elist.episodes.remove(cur)
             cur = elist.episodes[0]
             
+        elif cmd == 'next' or cmd == 'n':
+            showMax = len('Show')
+            titleMax = len('Title')
+            starMax = len('Star Date')
+            for i in range(1, min(11, len(elist.episodes))):
+                if len(elist.episodes[i].show) > showMax:
+                    showMax = len(elist.episodes[i].show)
+                if len(elist.episodes[i].title) > titleMax:
+                    titleMax = len(elist.episodes[i].title)
+                if len(elist.episodes[i].star_date) > starMax:
+                    starMax = len(elist.episodes[i].star_date)
+            print 'Show'.center(showMax), '|',
+            print 'Title'.center(titleMax), '|',
+            print 'Star Date'.center(starMax)
+            print '-'*(showMax+1) + '+' + '-'*(titleMax+2) + '+' + '-'*(starMax+1)
+            for i in range(1, min(11, len(elist.episodes))):
+                print elist.episodes[i].show.rjust(showMax), '|',
+                print elist.episodes[i].title.rjust(titleMax), '|',
+                print elist.episodes[i].star_date.rjust(starMax)
+            
         elif cmd == 'remaining' or cmd == 'rem' or cmd == 'r':
             print "Remaining:", len(elist.episodes)
             
         elif cmd == 'current' or cmd == 'cur' or cmd == 'c':
-            print 'Show:', cur.show
-            print 'Title:', cur.title
+            print 'Show:     ', cur.show
+            print 'Title:    ', cur.title
             print 'Star Date:', cur.star_date
             
         elif cmd == 'fetch' or cmd == 'f':
@@ -67,6 +87,7 @@ if __name__ == '__main__':
             print "List of commands:"
             print "help, h - print this list of commands"
             print "mark, m - mark the current episode as seen"
+            print "next, n - list the next 10 episodes"
             print "remaining, rem, r - print the number of episodes remaining"
             print "fetch, f - download and restart the list"
             print "load, l - load the last saved list"
