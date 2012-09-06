@@ -1,0 +1,4 @@
+*.pyc
+episode_list
+.project
+.pydevproject
