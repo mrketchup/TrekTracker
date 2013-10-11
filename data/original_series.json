@@ -2,6 +2,7 @@
     {
         "showEpisode": "0",
         "episode": "0",
+        "description": "",
         "title": "The Cage",
         "season": "0",
         "show": "Original Series",
@@ -12,6 +13,7 @@
     {
         "showEpisode": "0",
         "episode": "0",
+        "description": "",
         "title": "Where No Man Has Gone Before",
         "season": "0",
         "show": "Original Series",
@@ -22,6 +24,7 @@
     {
         "showEpisode": "1",
         "episode": "1",
+        "description": "",
         "title": "The Man Trap",
         "season": "1",
         "show": "Original Series",
@@ -32,6 +35,7 @@
     {
         "showEpisode": "2",
         "episode": "2",
+        "description": "",
         "title": "Charlie X",
         "season": "1",
         "show": "Original Series",
@@ -42,6 +46,7 @@
     {
         "showEpisode": "3",
         "episode": "3",
+        "description": "",
         "title": "Where No Man Has Gone Before",
         "season": "1",
         "show": "Original Series",
@@ -52,6 +57,7 @@
     {
         "showEpisode": "4",
         "episode": "4",
+        "description": "",
         "title": "The Naked Time",
         "season": "1",
         "show": "Original Series",
@@ -62,6 +68,7 @@
     {
         "showEpisode": "5",
         "episode": "5",
+        "description": "",
         "title": "The Enemy Within",
         "season": "1",
         "show": "Original Series",
@@ -72,6 +79,7 @@
     {
         "showEpisode": "6",
         "episode": "6",
+        "description": "",
         "title": "Mudd's Women",
         "season": "1",
         "show": "Original Series",
@@ -82,6 +90,7 @@
     {
         "showEpisode": "7",
         "episode": "7",
+        "description": "",
         "title": "What Are Little Girls Made Of?",
         "season": "1",
         "show": "Original Series",
@@ -92,6 +101,7 @@
     {
         "showEpisode": "8",
         "episode": "8",
+        "description": "",
         "title": "Miri",
         "season": "1",
         "show": "Original Series",
@@ -102,6 +112,7 @@
     {
         "showEpisode": "9",
         "episode": "9",
+        "description": "",
         "title": "Dagger of the Mind",
         "season": "1",
         "show": "Original Series",
@@ -112,6 +123,7 @@
     {
         "showEpisode": "10",
         "episode": "10",
+        "description": "",
         "title": "The Corbomite Maneuver",
         "season": "1",
         "show": "Original Series",
@@ -122,6 +134,7 @@
     {
         "showEpisode": "11",
         "episode": "11",
+        "description": "",
         "title": "The Menagerie, Part I",
         "season": "1",
         "show": "Original Series",
@@ -132,6 +145,7 @@
     {
         "showEpisode": "12",
         "episode": "12",
+        "description": "",
         "title": "The Menagerie, Part II",
         "season": "1",
         "show": "Original Series",
@@ -142,6 +156,7 @@
     {
         "showEpisode": "13",
         "episode": "13",
+        "description": "",
         "title": "The Conscience of the King",
         "season": "1",
         "show": "Original Series",
@@ -152,6 +167,7 @@
     {
         "showEpisode": "14",
         "episode": "14",
+        "description": "",
         "title": "Balance of Terror",
         "season": "1",
         "show": "Original Series",
@@ -162,6 +178,7 @@
     {
         "showEpisode": "15",
         "episode": "15",
+        "description": "",
         "title": "Shore Leave",
         "season": "1",
         "show": "Original Series",
@@ -172,6 +189,7 @@
     {
         "showEpisode": "16",
         "episode": "16",
+        "description": "",
         "title": "The Galileo Seven",
         "season": "1",
         "show": "Original Series",
@@ -182,6 +200,7 @@
     {
         "showEpisode": "17",
         "episode": "17",
+        "description": "",
         "title": "The Squire of Gothos",
         "season": "1",
         "show": "Original Series",
@@ -192,6 +211,7 @@
     {
         "showEpisode": "18",
         "episode": "18",
+        "description": "",
         "title": "Arena",
         "season": "1",
         "show": "Original Series",
@@ -202,6 +222,7 @@
     {
         "showEpisode": "19",
         "episode": "19",
+        "description": "",
         "title": "Tomorrow Is Yesterday",
         "season": "1",
         "show": "Original Series",
@@ -212,6 +233,7 @@
     {
         "showEpisode": "20",
         "episode": "20",
+        "description": "",
         "title": "Court Martial",
         "season": "1",
         "show": "Original Series",
@@ -222,6 +244,7 @@
     {
         "showEpisode": "21",
         "episode": "21",
+        "description": "",
         "title": "The Return of the Archons",
         "season": "1",
         "show": "Original Series",
@@ -232,6 +255,7 @@
     {
         "showEpisode": "22",
         "episode": "22",
+        "description": "",
         "title": "Space Seed",
         "season": "1",
         "show": "Original Series",
@@ -242,6 +266,7 @@
     {
         "showEpisode": "23",
         "episode": "23",
+        "description": "",
         "title": "A Taste of Armageddon",
         "season": "1",
         "show": "Original Series",
@@ -252,6 +277,7 @@
     {
         "showEpisode": "24",
         "episode": "24",
+        "description": "",
         "title": "This Side of Paradise",
         "season": "1",
         "show": "Original Series",
@@ -262,6 +288,7 @@
     {
         "showEpisode": "25",
         "episode": "25",
+        "description": "",
         "title": "The Devil in the Dark",
         "season": "1",
         "show": "Original Series",
@@ -272,6 +299,7 @@
     {
         "showEpisode": "26",
         "episode": "26",
+        "description": "",
         "title": "Errand of Mercy",
         "season": "1",
         "show": "Original Series",
@@ -282,6 +310,7 @@
     {
         "showEpisode": "27",
         "episode": "27",
+        "description": "",
         "title": "The Alternative Factor",
         "season": "1",
         "show": "Original Series",
@@ -292,6 +321,7 @@
     {
         "showEpisode": "28",
         "episode": "28",
+        "description": "",
         "title": "The City on the Edge of Forever",
         "season": "1",
         "show": "Original Series",
@@ -302,6 +332,7 @@
     {
         "showEpisode": "29",
         "episode": "29",
+        "description": "",
         "title": "Operation: Annihilate!",
         "season": "1",
         "show": "Original Series",
@@ -312,6 +343,7 @@
     {
         "showEpisode": "30",
         "episode": "1",
+        "description": "",
         "title": "Amok Time",
         "season": "2",
         "show": "Original Series",
@@ -322,6 +354,7 @@
     {
         "showEpisode": "31",
         "episode": "2",
+        "description": "",
         "title": "Who Mourns for Adonais?",
         "season": "2",
         "show": "Original Series",
@@ -332,6 +365,7 @@
     {
         "showEpisode": "32",
         "episode": "3",
+        "description": "",
         "title": "The Changeling",
         "season": "2",
         "show": "Original Series",
@@ -342,6 +376,7 @@
     {
         "showEpisode": "33",
         "episode": "4",
+        "description": "",
         "title": "Mirror, Mirror",
         "season": "2",
         "show": "Original Series",
@@ -352,6 +387,7 @@
     {
         "showEpisode": "34",
         "episode": "5",
+        "description": "",
         "title": "The Apple",
         "season": "2",
         "show": "Original Series",
@@ -362,6 +398,7 @@
     {
         "showEpisode": "35",
         "episode": "6",
+        "description": "",
         "title": "The Doomsday Machine",
         "season": "2",
         "show": "Original Series",
@@ -372,6 +409,7 @@
     {
         "showEpisode": "36",
         "episode": "7",
+        "description": "",
         "title": "Catspaw",
         "season": "2",
         "show": "Original Series",
@@ -382,6 +420,7 @@
     {
         "showEpisode": "37",
         "episode": "8",
+        "description": "",
         "title": "I, Mudd",
         "season": "2",
         "show": "Original Series",
@@ -392,6 +431,7 @@
     {
         "showEpisode": "38",
         "episode": "9",
+        "description": "",
         "title": "Metamorphosis",
         "season": "2",
         "show": "Original Series",
@@ -402,6 +442,7 @@
     {
         "showEpisode": "39",
         "episode": "10",
+        "description": "",
         "title": "Journey to Babel",
         "season": "2",
         "show": "Original Series",
@@ -412,6 +453,7 @@
     {
         "showEpisode": "40",
         "episode": "11",
+        "description": "",
         "title": "Friday's Child",
         "season": "2",
         "show": "Original Series",
@@ -422,6 +464,7 @@
     {
         "showEpisode": "41",
         "episode": "12",
+        "description": "",
         "title": "The Deadly Years",
         "season": "2",
         "show": "Original Series",
@@ -432,6 +475,7 @@
     {
         "showEpisode": "42",
         "episode": "13",
+        "description": "",
         "title": "Obsession",
         "season": "2",
         "show": "Original Series",
@@ -442,6 +486,7 @@
     {
         "showEpisode": "43",
         "episode": "14",
+        "description": "",
         "title": "Wolf in the Fold",
         "season": "2",
         "show": "Original Series",
@@ -452,6 +497,7 @@
     {
         "showEpisode": "44",
         "episode": "15",
+        "description": "",
         "title": "The Trouble With Tribbles",
         "season": "2",
         "show": "Original Series",
@@ -462,6 +508,7 @@
     {
         "showEpisode": "45",
         "episode": "16",
+        "description": "",
         "title": "The Gamesters of Triskelion",
         "season": "2",
         "show": "Original Series",
@@ -472,6 +519,7 @@
     {
         "showEpisode": "46",
         "episode": "17",
+        "description": "",
         "title": "A Piece of the Action",
         "season": "2",
         "show": "Original Series",
@@ -482,6 +530,7 @@
     {
         "showEpisode": "47",
         "episode": "18",
+        "description": "",
         "title": "The Immunity Syndrome",
         "season": "2",
         "show": "Original Series",
@@ -492,6 +541,7 @@
     {
         "showEpisode": "48",
         "episode": "19",
+        "description": "",
         "title": "A Private Little War",
         "season": "2",
         "show": "Original Series",
@@ -502,6 +552,7 @@
     {
         "showEpisode": "49",
         "episode": "20",
+        "description": "",
         "title": "Return to Tomorrow",
         "season": "2",
         "show": "Original Series",
@@ -512,6 +563,7 @@
     {
         "showEpisode": "50",
         "episode": "21",
+        "description": "",
         "title": "Patterns of Force",
         "season": "2",
         "show": "Original Series",
@@ -522,6 +574,7 @@
     {
         "showEpisode": "51",
         "episode": "22",
+        "description": "",
         "title": "By Any Other Name",
         "season": "2",
         "show": "Original Series",
@@ -532,6 +585,7 @@
     {
         "showEpisode": "52",
         "episode": "23",
+        "description": "",
         "title": "The Omega Glory",
         "season": "2",
         "show": "Original Series",
@@ -542,6 +596,7 @@
     {
         "showEpisode": "53",
         "episode": "24",
+        "description": "",
         "title": "The Ultimate Computer",
         "season": "2",
         "show": "Original Series",
@@ -552,6 +607,7 @@
     {
         "showEpisode": "54",
         "episode": "25",
+        "description": "",
         "title": "Bread and Circuses",
         "season": "2",
         "show": "Original Series",
@@ -562,6 +618,7 @@
     {
         "showEpisode": "55",
         "episode": "26",
+        "description": "",
         "title": "Assignment: Earth",
         "season": "2",
         "show": "Original Series",
@@ -572,6 +629,7 @@
     {
         "showEpisode": "56",
         "episode": "1",
+        "description": "",
         "title": "Spock's Brain",
         "season": "3",
         "show": "Original Series",
@@ -582,6 +640,7 @@
     {
         "showEpisode": "57",
         "episode": "2",
+        "description": "",
         "title": "The Enterprise Incident",
         "season": "3",
         "show": "Original Series",
@@ -592,6 +651,7 @@
     {
         "showEpisode": "58",
         "episode": "3",
+        "description": "",
         "title": "The Paradise Syndrome",
         "season": "3",
         "show": "Original Series",
@@ -602,6 +662,7 @@
     {
         "showEpisode": "59",
         "episode": "4",
+        "description": "",
         "title": "And the Children Shall Lead",
         "season": "3",
         "show": "Original Series",
@@ -612,6 +673,7 @@
     {
         "showEpisode": "60",
         "episode": "5",
+        "description": "",
         "title": "Is There in Truth No Beauty?",
         "season": "3",
         "show": "Original Series",
@@ -622,6 +684,7 @@
     {
         "showEpisode": "61",
         "episode": "6",
+        "description": "",
         "title": "Spectre of the Gun",
         "season": "3",
         "show": "Original Series",
@@ -632,6 +695,7 @@
     {
         "showEpisode": "62",
         "episode": "7",
+        "description": "",
         "title": "Day of the Dove",
         "season": "3",
         "show": "Original Series",
@@ -642,6 +706,7 @@
     {
         "showEpisode": "63",
         "episode": "8",
+        "description": "",
         "title": "For the World Is Hollow and I Have Touched the Sky",
         "season": "3",
         "show": "Original Series",
@@ -652,6 +717,7 @@
     {
         "showEpisode": "64",
         "episode": "9",
+        "description": "",
         "title": "The Tholian Web",
         "season": "3",
         "show": "Original Series",
@@ -662,6 +728,7 @@
     {
         "showEpisode": "65",
         "episode": "10",
+        "description": "",
         "title": "Plato's Stepchildren",
         "season": "3",
         "show": "Original Series",
@@ -672,6 +739,7 @@
     {
         "showEpisode": "66",
         "episode": "11",
+        "description": "",
         "title": "Wink of an Eye",
         "season": "3",
         "show": "Original Series",
@@ -682,6 +750,7 @@
     {
         "showEpisode": "67",
         "episode": "12",
+        "description": "",
         "title": "The Empath",
         "season": "3",
         "show": "Original Series",
@@ -692,6 +761,7 @@
     {
         "showEpisode": "68",
         "episode": "13",
+        "description": "",
         "title": "Elaan of Troyius",
         "season": "3",
         "show": "Original Series",
@@ -702,6 +772,7 @@
     {
         "showEpisode": "69",
         "episode": "14",
+        "description": "",
         "title": "Whom Gods Destroy",
         "season": "3",
         "show": "Original Series",
@@ -712,6 +783,7 @@
     {
         "showEpisode": "70",
         "episode": "15",
+        "description": "",
         "title": "Let That Be Your Last Battlefield",
         "season": "3",
         "show": "Original Series",
@@ -722,6 +794,7 @@
     {
         "showEpisode": "71",
         "episode": "16",
+        "description": "",
         "title": "The Mark of Gideon",
         "season": "3",
         "show": "Original Series",
@@ -732,6 +805,7 @@
     {
         "showEpisode": "72",
         "episode": "17",
+        "description": "",
         "title": "That Which Survives",
         "season": "3",
         "show": "Original Series",
@@ -742,6 +816,7 @@
     {
         "showEpisode": "73",
         "episode": "18",
+        "description": "",
         "title": "The Lights of Zetar",
         "season": "3",
         "show": "Original Series",
@@ -752,6 +827,7 @@
     {
         "showEpisode": "74",
         "episode": "19",
+        "description": "",
         "title": "Requiem for Methuselah",
         "season": "3",
         "show": "Original Series",
@@ -762,6 +838,7 @@
     {
         "showEpisode": "75",
         "episode": "20",
+        "description": "",
         "title": "The Way to Eden",
         "season": "3",
         "show": "Original Series",
@@ -772,6 +849,7 @@
     {
         "showEpisode": "76",
         "episode": "21",
+        "description": "",
         "title": "The Cloud Minders",
         "season": "3",
         "show": "Original Series",
@@ -782,6 +860,7 @@
     {
         "showEpisode": "77",
         "episode": "22",
+        "description": "",
         "title": "The Savage Curtain",
         "season": "3",
         "show": "Original Series",
@@ -792,6 +871,7 @@
     {
         "showEpisode": "78",
         "episode": "23",
+        "description": "",
         "title": "All Our Yesterdays",
         "season": "3",
         "show": "Original Series",
@@ -802,6 +882,7 @@
     {
         "showEpisode": "79",
         "episode": "24",
+        "description": "",
         "title": "Turnabout Intruder",
         "season": "3",
         "show": "Original Series",
