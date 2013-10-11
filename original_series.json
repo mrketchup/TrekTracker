@@ -1,0 +1,812 @@
+[
+    {
+        "showEpisode": "0",
+        "episode": "0",
+        "title": "The Cage",
+        "season": "0",
+        "show": "Original Series",
+        "starDate": "Unknown",
+        "airDate": "0000-00-00",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "0",
+        "episode": "0",
+        "title": "Where No Man Has Gone Before",
+        "season": "0",
+        "show": "Original Series",
+        "starDate": "1312.4",
+        "airDate": "0000-00-00",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "1",
+        "episode": "1",
+        "title": "The Man Trap",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "1513.1",
+        "airDate": "1966-09-08",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "2",
+        "episode": "2",
+        "title": "Charlie X",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "1533.6",
+        "airDate": "1966-09-15",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "3",
+        "episode": "3",
+        "title": "Where No Man Has Gone Before",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "1312.9",
+        "airDate": "1966-09-22",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "4",
+        "episode": "4",
+        "title": "The Naked Time",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "1704.2",
+        "airDate": "1966-09-29",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "5",
+        "episode": "5",
+        "title": "The Enemy Within",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "1672.1",
+        "airDate": "1966-10-06",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "6",
+        "episode": "6",
+        "title": "Mudd's Women",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "1329.8",
+        "airDate": "1966-10-13",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "7",
+        "episode": "7",
+        "title": "What Are Little Girls Made Of?",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "2712.4",
+        "airDate": "1966-10-20",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "8",
+        "episode": "8",
+        "title": "Miri",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "2713.5",
+        "airDate": "1966-10-27",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "9",
+        "episode": "9",
+        "title": "Dagger of the Mind",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "2715.1",
+        "airDate": "1966-11-03",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "10",
+        "episode": "10",
+        "title": "The Corbomite Maneuver",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "1512.2",
+        "airDate": "1966-11-10",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "11",
+        "episode": "11",
+        "title": "The Menagerie, Part I",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3012.4",
+        "airDate": "1966-11-17",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "12",
+        "episode": "12",
+        "title": "The Menagerie, Part II",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3013.1",
+        "airDate": "1966-11-24",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "13",
+        "episode": "13",
+        "title": "The Conscience of the King",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "2817.6",
+        "airDate": "1966-12-08",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "14",
+        "episode": "14",
+        "title": "Balance of Terror",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "1709.2",
+        "airDate": "1966-12-15",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "15",
+        "episode": "15",
+        "title": "Shore Leave",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3025.3",
+        "airDate": "1966-12-29",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "16",
+        "episode": "16",
+        "title": "The Galileo Seven",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "2821.5",
+        "airDate": "1967-01-05",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "17",
+        "episode": "17",
+        "title": "The Squire of Gothos",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "2124.5",
+        "airDate": "1967-01-12",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "18",
+        "episode": "18",
+        "title": "Arena",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3045.6",
+        "airDate": "1967-01-19",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "19",
+        "episode": "19",
+        "title": "Tomorrow Is Yesterday",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3113.2",
+        "airDate": "1967-01-26",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "20",
+        "episode": "20",
+        "title": "Court Martial",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "2947.3",
+        "airDate": "1967-02-02",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "21",
+        "episode": "21",
+        "title": "The Return of the Archons",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3156.2",
+        "airDate": "1967-02-09",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "22",
+        "episode": "22",
+        "title": "Space Seed",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3141.9",
+        "airDate": "1967-02-16",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "23",
+        "episode": "23",
+        "title": "A Taste of Armageddon",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3192.1",
+        "airDate": "1967-02-23",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "24",
+        "episode": "24",
+        "title": "This Side of Paradise",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3417.3\u20133417.7",
+        "airDate": "1967-03-02",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "25",
+        "episode": "25",
+        "title": "The Devil in the Dark",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3196.1",
+        "airDate": "1967-03-09",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "26",
+        "episode": "26",
+        "title": "Errand of Mercy",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3198.4",
+        "airDate": "1967-03-23",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "27",
+        "episode": "27",
+        "title": "The Alternative Factor",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3087.6",
+        "airDate": "1967-03-30",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "28",
+        "episode": "28",
+        "title": "The City on the Edge of Forever",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3134.0",
+        "airDate": "1967-04-06",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "29",
+        "episode": "29",
+        "title": "Operation: Annihilate!",
+        "season": "1",
+        "show": "Original Series",
+        "starDate": "3287.2",
+        "airDate": "1967-04-13",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "30",
+        "episode": "1",
+        "title": "Amok Time",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "3372.7",
+        "airDate": "1967-09-15",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "31",
+        "episode": "2",
+        "title": "Who Mourns for Adonais?",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "3468.1",
+        "airDate": "1967-09-22",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "32",
+        "episode": "3",
+        "title": "The Changeling",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "3541.9",
+        "airDate": "1967-09-29",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "33",
+        "episode": "4",
+        "title": "Mirror, Mirror",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "Unknown",
+        "airDate": "1967-10-06",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "34",
+        "episode": "5",
+        "title": "The Apple",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "3715.3",
+        "airDate": "1967-10-13",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "35",
+        "episode": "6",
+        "title": "The Doomsday Machine",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "4202.9",
+        "airDate": "1967-10-20",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "36",
+        "episode": "7",
+        "title": "Catspaw",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "3018.2",
+        "airDate": "1967-10-27",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "37",
+        "episode": "8",
+        "title": "I, Mudd",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "4513.3",
+        "airDate": "1967-11-03",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "38",
+        "episode": "9",
+        "title": "Metamorphosis",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "3219.4",
+        "airDate": "1967-11-10",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "39",
+        "episode": "10",
+        "title": "Journey to Babel",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "3842.3",
+        "airDate": "1967-11-17",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "40",
+        "episode": "11",
+        "title": "Friday's Child",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "3497.2",
+        "airDate": "1967-12-01",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "41",
+        "episode": "12",
+        "title": "The Deadly Years",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "3478.2",
+        "airDate": "1967-12-08",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "42",
+        "episode": "13",
+        "title": "Obsession",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "3619.2",
+        "airDate": "1967-12-15",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "43",
+        "episode": "14",
+        "title": "Wolf in the Fold",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "3614.9",
+        "airDate": "1967-12-22",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "44",
+        "episode": "15",
+        "title": "The Trouble With Tribbles",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "4523.3",
+        "airDate": "1967-12-29",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "45",
+        "episode": "16",
+        "title": "The Gamesters of Triskelion",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "3211.7",
+        "airDate": "1968-01-05",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "46",
+        "episode": "17",
+        "title": "A Piece of the Action",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "4598.0",
+        "airDate": "1968-01-12",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "47",
+        "episode": "18",
+        "title": "The Immunity Syndrome",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "4307.1",
+        "airDate": "1968-01-19",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "48",
+        "episode": "19",
+        "title": "A Private Little War",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "4211.4",
+        "airDate": "1968-02-02",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "49",
+        "episode": "20",
+        "title": "Return to Tomorrow",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "4768.3",
+        "airDate": "1968-02-09",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "50",
+        "episode": "21",
+        "title": "Patterns of Force",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "2534.0",
+        "airDate": "1968-02-16",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "51",
+        "episode": "22",
+        "title": "By Any Other Name",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "4657.5",
+        "airDate": "1968-02-23",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "52",
+        "episode": "23",
+        "title": "The Omega Glory",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "Unknown",
+        "airDate": "1968-03-01",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "53",
+        "episode": "24",
+        "title": "The Ultimate Computer",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "4729.4",
+        "airDate": "1968-03-08",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "54",
+        "episode": "25",
+        "title": "Bread and Circuses",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "4040.7",
+        "airDate": "1968-03-15",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "55",
+        "episode": "26",
+        "title": "Assignment: Earth",
+        "season": "2",
+        "show": "Original Series",
+        "starDate": "Unknown",
+        "airDate": "1968-03-29",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "56",
+        "episode": "1",
+        "title": "Spock's Brain",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5431.4",
+        "airDate": "1968-09-20",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "57",
+        "episode": "2",
+        "title": "The Enterprise Incident",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5027.3",
+        "airDate": "1968-09-27",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "58",
+        "episode": "3",
+        "title": "The Paradise Syndrome",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "4842.6",
+        "airDate": "1968-10-04",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "59",
+        "episode": "4",
+        "title": "And the Children Shall Lead",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5029.5",
+        "airDate": "1968-10-11",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "60",
+        "episode": "5",
+        "title": "Is There in Truth No Beauty?",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5630.7",
+        "airDate": "1968-10-18",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "61",
+        "episode": "6",
+        "title": "Spectre of the Gun",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "4385.3",
+        "airDate": "1968-10-25",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "62",
+        "episode": "7",
+        "title": "Day of the Dove",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "Unknown",
+        "airDate": "1968-11-01",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "63",
+        "episode": "8",
+        "title": "For the World Is Hollow and I Have Touched the Sky",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5476.3",
+        "airDate": "1968-11-08",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "64",
+        "episode": "9",
+        "title": "The Tholian Web",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5693.2",
+        "airDate": "1968-11-15",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "65",
+        "episode": "10",
+        "title": "Plato's Stepchildren",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5784.2",
+        "airDate": "1968-11-22",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "66",
+        "episode": "11",
+        "title": "Wink of an Eye",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5710.5",
+        "airDate": "1968-11-29",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "67",
+        "episode": "12",
+        "title": "The Empath",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5121.5",
+        "airDate": "1968-12-06",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "68",
+        "episode": "13",
+        "title": "Elaan of Troyius",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "4372.5",
+        "airDate": "1968-12-20",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "69",
+        "episode": "14",
+        "title": "Whom Gods Destroy",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5718.3",
+        "airDate": "1969-01-03",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "70",
+        "episode": "15",
+        "title": "Let That Be Your Last Battlefield",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5730.2",
+        "airDate": "1969-01-10",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "71",
+        "episode": "16",
+        "title": "The Mark of Gideon",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5423.4",
+        "airDate": "1969-01-17",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "72",
+        "episode": "17",
+        "title": "That Which Survives",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "Unknown",
+        "airDate": "1969-01-24",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "73",
+        "episode": "18",
+        "title": "The Lights of Zetar",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5725.3",
+        "airDate": "1969-01-31",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "74",
+        "episode": "19",
+        "title": "Requiem for Methuselah",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5843.7",
+        "airDate": "1969-02-14",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "75",
+        "episode": "20",
+        "title": "The Way to Eden",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5832.3",
+        "airDate": "1969-02-21",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "76",
+        "episode": "21",
+        "title": "The Cloud Minders",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5818.4",
+        "airDate": "1969-02-28",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "77",
+        "episode": "22",
+        "title": "The Savage Curtain",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5906.4",
+        "airDate": "1969-03-07",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "78",
+        "episode": "23",
+        "title": "All Our Yesterdays",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5943.7",
+        "airDate": "1969-03-14",
+        "estimatedStarDate": "0000.0"
+    },
+    {
+        "showEpisode": "79",
+        "episode": "24",
+        "title": "Turnabout Intruder",
+        "season": "3",
+        "show": "Original Series",
+        "starDate": "5928.5",
+        "airDate": "1969-06-03",
+        "estimatedStarDate": "0000.0"
+    }
+]
